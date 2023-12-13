@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rashini2017@gmail.com**
 
-- ⚡ Fun fact **I am always Angry**
+- 🤯 (Not) Fun fact **I am always Angry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

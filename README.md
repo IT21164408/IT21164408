@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21164408&label=Profile%20views&color=0e75b6&style=flat" alt="it21164408" /> </p>
 
-- 🔭 I’m currently studing on **SLIIT**
+- 🔭 I’m currently studing at **SLIIT**
 
 - 🌱 I’m currently learning **Data Science, Python, R**
 
